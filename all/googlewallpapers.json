@@ -1,26 +1,393 @@
 [
   {
-    "name": "OneUI",
-    "author": "A",
-    "url": "https://raw.githubusercontent.com/icontreat/wallpapers/master/oneuiwallpapers/1.jpg",
-    "thumbUrl": "https://raw.githubusercontent.com/icontreat/wallpapers/master/oneuiwallpapers/1.jpg"
+    "name": "icontreat.",
+    "author": "Pixel 6 Series",
+    "url": "https://raw.githubusercontent.com/icontreat/wallpapers/master/all/icontreat._pixel6_1.jpg",
   },
   {
-    "name": "OneUI",
-    "author": "B",
-    "url": "https://raw.githubusercontent.com/icontreat/wallpapers/master/oneuiwallpapers/2.jpg",
-    "thumbUrl": "https://raw.githubusercontent.com/icontreat/wallpapers/master/oneuiwallpapers/2.jpg"
+    "name": "icontreat.",
+    "author": "Pixel 6 Series",
+    "url": "https://raw.githubusercontent.com/icontreat/wallpapers/master/all/icontreat._pixel6_2.jpg",
   },
   {
-    "name": "OneUI",
-    "author": "C",
-    "url": "https://raw.githubusercontent.com/icontreat/wallpapers/master/oneuiwallpapers/3.jpg",
-    "thumbUrl": "https://raw.githubusercontent.com/icontreat/wallpapers/master/oneuiwallpapers/3.jpg"
+    "name": "icontreat.",
+    "author": "Pixel 6 Series",
+    "url": "https://raw.githubusercontent.com/icontreat/wallpapers/master/all/icontreat._pixel6_3.jpg",
   },
   {
-    "name": "OneUI",
-    "author": "D",
-    "url": "https://raw.githubusercontent.com/icontreat/wallpapers/master/oneuiwallpapers/4.jpg",
-    "thumbUrl": "https://raw.githubusercontent.com/icontreat/wallpapers/master/oneuiwallpapers/4.jpg"
+    "name": "icontreat.",
+    "author": "Pixel 6 Series",
+    "url": "https://raw.githubusercontent.com/icontreat/wallpapers/master/all/icontreat._pixel6_4.jpg",
+  },
+  {
+    "name": "icontreat.",
+    "author": "Pixel 6 Series",
+    "url": "https://raw.githubusercontent.com/icontreat/wallpapers/master/all/icontreat._pixel6_5.jpg",
+  },
+  {
+    "name": "icontreat.",
+    "author": "Pixel 6 Series",
+    "url": "https://raw.githubusercontent.com/icontreat/wallpapers/master/all/icontreat._pixel6_6.jpg",
+  },
+  {
+    "name": "icontreat.",
+    "author": "Pixel 6 Series",
+    "url": "https://raw.githubusercontent.com/icontreat/wallpapers/master/all/icontreat._pixel6_7.jpg",
+  },
+  {
+    "name": "icontreat.",
+    "author": "Pixel 6 Series",
+    "url": "https://raw.githubusercontent.com/icontreat/wallpapers/master/all/icontreat._pixel6_8.jpg",
+  },
+  {
+    "name": "icontreat.",
+    "author": "Pixel 6 Series",
+    "url": "https://raw.githubusercontent.com/icontreat/wallpapers/master/all/icontreat._pixel6_9.jpg",
+  },
+  {
+    "name": "icontreat.",
+    "author": "Pixel 6 Series",
+    "url": "https://raw.githubusercontent.com/icontreat/wallpapers/master/all/icontreat._pixel6_10.jpg",
+  },
+  {
+    "name": "icontreat.",
+    "author": "Pixel 6 Series",
+    "url": "https://raw.githubusercontent.com/icontreat/wallpapers/master/all/icontreat._pixel6_11.jpg",
+  },
+  {
+    "name": "icontreat.",
+    "author": "Pixel 6 Series",
+    "url": "https://raw.githubusercontent.com/icontreat/wallpapers/master/all/icontreat._pixel6_12.jpg",
+  },
+  {
+    "name": "icontreat.",
+    "author": "Pixel 6 Series",
+    "url": "https://raw.githubusercontent.com/icontreat/wallpapers/master/all/icontreat._pixel6_13.jpg",
+  },
+  {
+    "name": "icontreat.",
+    "author": "Pixel 6 Series",
+    "url": "https://raw.githubusercontent.com/icontreat/wallpapers/master/all/icontreat._pixel6_14.jpg",
+  },
+  {
+    "name": "icontreat.",
+    "author": "Pixel 6 Series",
+    "url": "https://raw.githubusercontent.com/icontreat/wallpapers/master/all/icontreat._pixel6_15.jpg",
+  },
+  {
+    "name": "icontreat.",
+    "author": "Pixel 6 Series",
+    "url": "https://raw.githubusercontent.com/icontreat/wallpapers/master/all/icontreat._pixel6_16.jpg",
+  },
+  {
+    "name": "icontreat.",
+    "author": "Pixel 6 Series",
+    "url": "https://raw.githubusercontent.com/icontreat/wallpapers/master/all/icontreat._pixel6_17.jpg",
+  },
+  {
+    "name": "icontreat.",
+    "author": "Pixel 6 Series",
+    "url": "https://raw.githubusercontent.com/icontreat/wallpapers/master/all/icontreat._pixel6_18.jpg",
+  },
+  {
+    "name": "icontreat.",
+    "author": "Pixel 6 Series",
+    "url": "https://raw.githubusercontent.com/icontreat/wallpapers/master/all/icontreat._pixel6_19.jpg",
+  },
+  {
+    "name": "icontreat.",
+    "author": "Pixel 6 Series",
+    "url": "https://raw.githubusercontent.com/icontreat/wallpapers/master/all/icontreat._pixel6_20.jpg",
+  },
+  {
+    "name": "icontreat.",
+    "author": "Pixel 6 Series",
+    "url": "https://raw.githubusercontent.com/icontreat/wallpapers/master/all/icontreat._pixel6_21.jpg",
+  },
+  {
+    "name": "icontreat.",
+    "author": "Pixel 6 Series",
+    "url": "https://raw.githubusercontent.com/icontreat/wallpapers/master/all/icontreat._pixel6_22.jpg",
+  },
+  {
+    "name": "icontreat.",
+    "author": "Pixel 6 Series",
+    "url": "https://raw.githubusercontent.com/icontreat/wallpapers/master/all/icontreat._pixel6_23.jpg",
+  },
+  {
+    "name": "icontreat.",
+    "author": "Pixel 6 Series",
+    "url": "https://raw.githubusercontent.com/icontreat/wallpapers/master/all/icontreat._pixel6_24.jpg",
+  },
+  {
+    "name": "icontreat.",
+    "author": "Pixel 6 Series",
+    "url": "https://raw.githubusercontent.com/icontreat/wallpapers/master/all/icontreat._pixel6_25.jpg",
+  },
+  {
+    "name": "icontreat.",
+    "author": "Pixel 6 Series",
+    "url": "https://raw.githubusercontent.com/icontreat/wallpapers/master/all/icontreat._pixel6_26.jpg",
+  },
+  {
+    "name": "icontreat.",
+    "author": "Pixel 6 Series",
+    "url": "https://raw.githubusercontent.com/icontreat/wallpapers/master/all/icontreat._pixel6_27.jpg",
+  },
+  {
+    "name": "icontreat.",
+    "author": "Pixel 6 Series",
+    "url": "https://raw.githubusercontent.com/icontreat/wallpapers/master/all/icontreat._pixel6_28.jpg",
+  },
+  {
+    "name": "icontreat.",
+    "author": "Pixel 6 Series",
+    "url": "https://raw.githubusercontent.com/icontreat/wallpapers/master/all/icontreat._pixel6_29.jpg",
+  },
+  {
+    "name": "icontreat.",
+    "author": "Pixel 6 Series",
+    "url": "https://raw.githubusercontent.com/icontreat/wallpapers/master/all/icontreat._pixel6_30.jpg",
+  },
+  {
+    "name": "icontreat.",
+    "author": "Pixel 6 Series",
+    "url": "https://raw.githubusercontent.com/icontreat/wallpapers/master/all/icontreat._pixel6_31.jpg",
+  },
+  {
+    "name": "icontreat.",
+    "author": "Pixel 6 Series",
+    "url": "https://raw.githubusercontent.com/icontreat/wallpapers/master/all/icontreat._pixel6_32.jpg",
+  },
+  {
+    "name": "icontreat.",
+    "author": "Pixel 6 Series",
+    "url": "https://raw.githubusercontent.com/icontreat/wallpapers/master/all/icontreat._pixel6_33.jpg",
+  },
+  {
+    "name": "icontreat.",
+    "author": "Pixel 6 Series",
+    "url": "https://raw.githubusercontent.com/icontreat/wallpapers/master/all/icontreat._pixel6_34.jpg",
+  },
+  {
+    "name": "icontreat.",
+    "author": "Pixel 6 Series",
+    "url": "https://raw.githubusercontent.com/icontreat/wallpapers/master/all/icontreat._pixel6_35.jpg",
+  },
+  {
+    "name": "icontreat.",
+    "author": "Pixel 6 Series",
+    "url": "https://raw.githubusercontent.com/icontreat/wallpapers/master/all/icontreat._pixel6_36.jpg",
+  },
+    "name": "icontreat.",
+    "author": "Pixel 6 Series",
+    "url": "https://raw.githubusercontent.com/icontreat/wallpapers/master/all/icontreat._pixel6_37.jpg",
+  },
+  {
+    "name": "icontreat.",
+    "author": "Pixel 6 Series",
+    "url": "https://raw.githubusercontent.com/icontreat/wallpapers/master/all/icontreat._pixel6_38.jpg",
+  },
+  {
+    "name": "icontreat.",
+    "author": "Pixel 6 Series",
+    "url": "https://raw.githubusercontent.com/icontreat/wallpapers/master/all/icontreat._pixel6_39.jpg",
+  },
+  {
+    "name": "icontreat.",
+    "author": "Pixel 6 Series",
+    "url": "https://raw.githubusercontent.com/icontreat/wallpapers/master/all/icontreat._pixel6_40.jpg",
+  },
+  {
+    "name": "icontreat.",
+    "author": "Pixel 6 Series",
+    "url": "https://raw.githubusercontent.com/icontreat/wallpapers/master/all/icontreat._pixel6_41.jpg",
+  },
+  {
+    "name": "icontreat.",
+    "author": "Pixel 6 Series",
+    "url": "https://raw.githubusercontent.com/icontreat/wallpapers/master/all/icontreat._pixel6_42.jpg",
+  },
+  {
+    "name": "icontreat.",
+    "author": "Pixel 6 Series",
+    "url": "https://raw.githubusercontent.com/icontreat/wallpapers/master/all/icontreat._pixel6_43.jpg",
+  },
+  {
+    "name": "icontreat.",
+    "author": "Pixel 6 Series",
+    "url": "https://raw.githubusercontent.com/icontreat/wallpapers/master/all/icontreat._pixel6_44.jpg",
+  },
+  {
+    "name": "icontreat.",
+    "author": "Pixel 6 Series",
+    "url": "https://raw.githubusercontent.com/icontreat/wallpapers/master/all/icontreat._pixel6_45.jpg",
+  },
+  {
+    "name": "icontreat.",
+    "author": "Pixel 6 Series",
+    "url": "https://raw.githubusercontent.com/icontreat/wallpapers/master/all/icontreat._pixel6_46.jpg",
+  },
+  {
+    "name": "icontreat.",
+    "author": "Pixel 6 Series",
+    "url": "https://raw.githubusercontent.com/icontreat/wallpapers/master/all/icontreat._pixel6_47.jpg",
+  },
+  {
+    "name": "icontreat.",
+    "author": "Pixel 6 Series",
+    "url": "https://raw.githubusercontent.com/icontreat/wallpapers/master/all/icontreat._pixel6_48.jpg",
+  },
+  {
+    "name": "icontreat.",
+    "author": "Pixel 6 Series",
+    "url": "https://raw.githubusercontent.com/icontreat/wallpapers/master/all/icontreat._pixel6_49.jpg",
+  },
+  {
+    "name": "icontreat.",
+    "author": "Pixel 6 Series",
+    "url": "https://raw.githubusercontent.com/icontreat/wallpapers/master/all/icontreat._pixel6_50.jpg",
+  },
+  {
+    "name": "icontreat.",
+    "author": "Pixel 6 Series",
+    "url": "https://raw.githubusercontent.com/icontreat/wallpapers/master/all/icontreat._pixel6_51.jpg",
+  },
+  {
+    "name": "icontreat.",
+    "author": "Pixel 6 Series",
+    "url": "https://raw.githubusercontent.com/icontreat/wallpapers/master/all/icontreat._pixel6_52.jpg",
+  },
+  {
+    "name": "icontreat.",
+    "author": "Pixel 6 Series",
+    "url": "https://raw.githubusercontent.com/icontreat/wallpapers/master/all/icontreat._pixel6_53.jpg",
+  },
+  {
+    "name": "icontreat.",
+    "author": "Pixel 6 Series",
+    "url": "https://raw.githubusercontent.com/icontreat/wallpapers/master/all/icontreat._pixel6_54.jpg",
+  },
+  {
+    "name": "icontreat.",
+    "author": "Pixel 6 Series",
+    "url": "https://raw.githubusercontent.com/icontreat/wallpapers/master/all/icontreat._pixel6_55.jpg",
+  },
+  {
+    "name": "icontreat.",
+    "author": "Pixel 6 Series",
+    "url": "https://raw.githubusercontent.com/icontreat/wallpapers/master/all/icontreat._pixel6_56.jpg",
+  },
+  {
+    "name": "icontreat.",
+    "author": "Pixel 6 Series",
+    "url": "https://raw.githubusercontent.com/icontreat/wallpapers/master/all/icontreat._pixel6_57.jpg",
+  },
+  {
+    "name": "icontreat.",
+    "author": "Pixel 6 Series",
+    "url": "https://raw.githubusercontent.com/icontreat/wallpapers/master/all/icontreat._pixel6_58.jpg",
+  },
+  {
+    "name": "icontreat.",
+    "author": "Pixel 6 Series",
+    "url": "https://raw.githubusercontent.com/icontreat/wallpapers/master/all/icontreat._pixel6_59.jpg",
+  },
+  {
+    "name": "icontreat.",
+    "author": "Pixel 6 Series",
+    "url": "https://raw.githubusercontent.com/icontreat/wallpapers/master/all/icontreat._pixel6_60.jpg",
+  },
+  {
+    "name": "icontreat.",
+    "author": "Pixel 6 Series",
+    "url": "https://raw.githubusercontent.com/icontreat/wallpapers/master/all/icontreat._pixel6_61.jpg",
+  },
+  {
+    "name": "icontreat.",
+    "author": "Pixel 6 Series",
+    "url": "https://raw.githubusercontent.com/icontreat/wallpapers/master/all/icontreat._pixel6_62.jpg",
+  },
+  {
+    "name": "icontreat.",
+    "author": "Pixel 6 Series",
+    "url": "https://raw.githubusercontent.com/icontreat/wallpapers/master/all/icontreat._pixel6_63.jpg",
+  },
+  {
+    "name": "icontreat.",
+    "author": "Pixel 6 Series",
+    "url": "https://raw.githubusercontent.com/icontreat/wallpapers/master/all/icontreat._pixel6_64.jpg",
+  },
+  {
+    "name": "icontreat.",
+    "author": "Pixel 6 Series",
+    "url": "https://raw.githubusercontent.com/icontreat/wallpapers/master/all/icontreat._pixel6_65.jpg",
+  },
+  {
+    "name": "icontreat.",
+    "author": "Pixel 6 Series",
+    "url": "https://raw.githubusercontent.com/icontreat/wallpapers/master/all/icontreat._pixel6_66.jpg",
+  },
+  {
+    "name": "icontreat.",
+    "author": "Pixel 6 Series",
+    "url": "https://raw.githubusercontent.com/icontreat/wallpapers/master/all/icontreat._pixel6_67.jpg",
+  },
+  {
+    "name": "icontreat.",
+    "author": "Pixel 6 Series",
+    "url": "https://raw.githubusercontent.com/icontreat/wallpapers/master/all/icontreat._pixel6_68.jpg",
+  },
+  {
+    "name": "icontreat.",
+    "author": "Pixel 6 Series",
+    "url": "https://raw.githubusercontent.com/icontreat/wallpapers/master/all/icontreat._pixel6_69.jpg",
+  },
+  {
+    "name": "icontreat.",
+    "author": "Pixel 6 Series",
+    "url": "https://raw.githubusercontent.com/icontreat/wallpapers/master/all/icontreat._pixel6_70.jpg",
+  },
+  {
+    "name": "icontreat.",
+    "author": "Pixel 6 Series",
+    "url": "https://raw.githubusercontent.com/icontreat/wallpapers/master/all/icontreat._pixel6_71.jpg",
+  },
+  {
+    "name": "icontreat.",
+    "author": "Pixel 6 Series",
+    "url": "https://raw.githubusercontent.com/icontreat/wallpapers/master/all/icontreat._pixel6_72.jpg",
+  },
+  {
+    "name": "icontreat.",
+    "author": "Pixel 6 Series",
+    "url": "https://raw.githubusercontent.com/icontreat/wallpapers/master/all/icontreat._pixel6_73.jpg",
+  },
+  {
+    "name": "icontreat.",
+    "author": "Pixel 6 Series",
+    "url": "https://raw.githubusercontent.com/icontreat/wallpapers/master/all/icontreat._pixel6_74.jpg",
+  },
+  {
+    "name": "icontreat.",
+    "author": "Pixel 6 Series",
+    "url": "https://raw.githubusercontent.com/icontreat/wallpapers/master/all/icontreat._pixel6_775.jpg",
+  },
+  {
+    "name": "icontreat.",
+    "author": "Pixel 6 Series",
+    "url": "https://raw.githubusercontent.com/icontreat/wallpapers/master/all/icontreat._pixel6_76.jpg",
+  },
+  {
+  {
+    "name": "icontreat.",
+    "author": "Pixel 6 Series",
+    "url": "https://raw.githubusercontent.com/icontreat/wallpapers/master/all/icontreat._pixel6_77.jpg",
+  },
+  {
+    "name": "",
+    "author": "",
+    "url": "",
+    "thumbUrl": ""
   }
 ]
